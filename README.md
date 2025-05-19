@@ -2,10 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## Short Description
-A hands-on Python demo that generates noisy linear data, normalizes it, and uses gradient descent to learn the best-fit line—complete with live plotting and progress updates.
-
-## Long Description
+## Description
 
 This Python script provides an end-to-end, from-scratch walkthrough of building a simple linear regression model. It’s designed for anyone who wants to see exactly how raw data can be created, prepared, and optimized with basic algorithms—perfect for learners who crave intuition behind high-level ML libraries and for developers seeking a lightweight reference implementation. Every step is clearly commented, making it easy to follow, tweak, and extend.
 

@@ -171,7 +171,7 @@ if __name__ == "__main__":
         m, b = denormalize_parameters(m_norm, b_norm, norm_params)
         
         # Every 50 epochs, print progress
-        if i % 50 == 0:
+        if i % 100 == 0:
             loss = loss_function(m, b, df)
             print(f"Epoch: {i}, m: {m:.4f}, b: {b:.4f}, Loss: {loss:.4f}")
         
